@@ -1,0 +1,11 @@
+Lokatori sa slike:
+1. id #piklogo
+2. .searchinput.trazilicaObicna
+3. .selected
+4. .btn.btn-mainsearch
+5.#loginbtn
+6.#login-ic
+7. 
+8.#submenu-poslovi
+9.#submenu-kompjuteri
+10.#submenu-moj-dom

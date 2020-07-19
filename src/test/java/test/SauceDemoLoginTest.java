@@ -18,9 +18,7 @@ public class SauceDemoLoginTest {
 	
 	private static WebDriver driver = null;
 
-public static void main(String[] args) {
-	SauceDemoLogin();
-}
+
 @BeforeClass
 public static void SauceDemoLogin() {
 	
